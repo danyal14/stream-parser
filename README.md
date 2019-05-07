@@ -18,7 +18,7 @@ Thus, when it comes to big files, callbacks will be executed meanwhile file is d
 
 ## Installation
 ```
-composer require rodenastyle/stream-parser
+composer require danyal14/stream-parser
 ```
 
 ## Recommended usage
